@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Dell XPS 13 Laptop",
+    "product_image": "https://i.ibb.co.com/jGJwkBh/dellxps13.jpg",
+    "category": "laptops",
+    "price": 1199.99,
+    "description": "Compact and powerful laptop with a stunning 13-inch display.",
+    "Specification": [
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch 4K Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "2",
+    "product_title": "Apple MacBook Pro M2",
+    "product_image": "https://i.ibb.co.com/Drq39Gc/Apple-Mac-Book-Pro-M2.jpg",
+    "category": "laptops",
+    "price": 2499.99,
+    "description": "High-performance MacBook Pro with Apple's M2 chip and advanced features.",
+    "Specification": [
+      "Apple M2 Chip",
+      "16GB RAM",
+      "1TB SSD",
+      "14-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "3",
+    "product_title": "HP Spectre x360 Convertible",
+    "product_image": "https://i.ibb.co.com/LZSJHK6/HP-Spectre-x360-Convertible.jpg",
+    "category": "laptops",
+    "price": 1399.99,
+    "description": "Versatile 2-in-1 laptop with touch screen and pen support.",
+    "Specification": [
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch FHD Touchscreen"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "4",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/mJBn54F/Samsung-Galaxy-S23.jpg",
+    "category": "phones",
+    "price": 799.99,
+    "description": "Latest Samsung Galaxy smartphone with a vibrant display and powerful camera.",
+    "Specification": [
+      "6.1-inch AMOLED display",
+      "128GB Storage",
+      "Triple camera system",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "5",
+    "product_title": "iPhone 14 Pro Max",
+    "product_image": "https://i.ibb.co.com/fNbRkM2/i-Phone-14-Pro-Max.jpg",
+    "category": "phones",
+    "price": 1099.99,
+    "description": "Apple's flagship iPhone with advanced photography features.",
+    "Specification": [
+      "6.7-inch Super Retina XDR display",
+      "A16 Bionic chip",
+      "Triple camera system",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "6",
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://i.ibb.co.com/KzM87tn/Google-Pixel-7-Pro.jpg",
+    "category": "phones",
+    "price": 899.99,
+    "description": "Google's latest smartphone with excellent camera and smooth user experience.",
+    "Specification": [
+      "6.7-inch OLED display",
+      "128GB Storage",
+      "50MP main camera",
+      "5G capable"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "7",
+    "product_title": "Sony WH-1000XM5 Headphones",
+    "product_image": "https://i.ibb.co.com/0y7nP4V/Sony-WH-1000-XM5-Headphones.jpg",
+    "category": "accessories",
+    "price": 349.99,
+    "description": "Top-tier noise-canceling headphones with immersive sound quality.",
+    "Specification": [
+      "Noise-canceling",
+      "Bluetooth 5.0",
+      "30-hour battery life",
+      "Touch controls"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "8",
+    "product_title": "Apple AirPods Pro 2nd Gen",
+    "product_image": "https://i.ibb.co.com/1fwt107/Apple-Air-Pods-Pro-2nd-Gen.jpg",
+    "category": "accessories",
+    "price": 249.99,
+    "description": "High-quality wireless earbuds with active noise cancellation.",
+    "Specification": [
+      "Noise-canceling",
+      "Spatial audio",
+      "6-hour battery life",
+      "Sweat and water resistance"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "9",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/C2xRmkr/Samsung-Galaxy-Watch-5.jpg",
+    "category": "smart-watches",
+    "price": 279.99,
+    "description": "Smartwatch with health monitoring and fitness tracking.",
+    "Specification": [
+      "Heart rate monitor",
+      "GPS tracking",
+      "Water-resistant",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "10",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/7N2TrTd/Apple-Watch-Series-8.jpg",
+    "category": "smart-watches",
+    "price": 399.99,
+    "description": "Latest Apple Watch with advanced health features and fitness tracking.",
+    "Specification": [
+      "ECG app",
+      "Blood oxygen sensor",
+      "Water-resistant",
+      "GPS tracking"
+    ],
+    "availability": false,
+    "rating": 4.9
+  },
+  {
+    "product_id": "11",
+    "product_title": "Microsoft Surface Laptop 5",
+    "product_image": "https://i.ibb.co.com/3pTSKwp/Microsoft-Surface-Laptop-5.jpg",
+    "category": "laptops",
+    "price": 999.99,
+    "description": "Elegant laptop with a smooth touchscreen and powerful performance.",
+    "Specification": [
+      "Intel i5 Processor",
+      "8GB RAM",
+      "256GB SSD",
+      "13.5-inch PixelSense display"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "12",
+    "product_title": "Fitbit Charge 5",
+    "product_image": "https://i.ibb.co.com/LQbM3KH/Fitbit-Charge-5.jpg",
+    "category": "smart-watches",
+    "price": 149.99,
+    "description": "Advanced fitness tracker with health metrics and sleep tracking.",
+    "Specification": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Stress management tools",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "13",
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "product_image": "https://i.ibb.co.com/KwMHGbG/Lenovo-Think-Pad-X1-Carbon-Gen-9.jpg",
+    "category": "laptops",
+    "price": 1799.99,
+    "description": "Business laptop with excellent keyboard and durability.",
+    "Specification": [
+      "Intel i7 Processor",
+      "16GB RAM",
+      "1TB SSD",
+      "14-inch FHD display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "14",
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/T87Tg6r/One-Plus-11.jpg",
+    "category": "phones",
+    "price": 699.99,
+    "description": "Powerful smartphone with a smooth display and high-speed charging.",
+    "Specification": [
+      "6.7-inch Fluid AMOLED display",
+      "256GB Storage",
+      "50MP main camera",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "15",
+    "product_title": "Huawei MateBook X Pro",
+    "product_image": "https://i.ibb.co.com/GkmY3Vs/Huawei-Mate-Book-X-Pro.jpg",
+    "category": "laptops",
+    "price": 1499.99,
+    "description": "Premium ultrabook with high-resolution display and sleek design.",
+    "Specification": [
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "13.9-inch 3K Display"
+    ],
+    "availability": false,
+    "rating": 4.5
+  }
+]
